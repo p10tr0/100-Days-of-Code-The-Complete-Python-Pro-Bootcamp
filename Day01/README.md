@@ -1,3 +1,3 @@
-#Day 1 - Working with Variables in Python to Manage Data
+# Day 1 - Working with Variables in Python to Manage Data
 ---
-##Project - Band Name Generator
+## Project - Band Name Generator
