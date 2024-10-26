@@ -1,4 +1,4 @@
 # Day 6 - Python Functions & Karel
 
 ## Project - Escaping the Maze
-(![Maze Video](maze.mp4))
+![Maze Video](maze.gif)
