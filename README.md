@@ -9,14 +9,14 @@ The following contains a repository of my coursework on the 100 Days of Code: Th
 The goal is to finish all 100 days of python work and upload the content here, so as to use this repository within my online coding portfolio.
 
 ## Beginner
-[Day01](/Day01/): Working with Variables in Python to Manage Data
-[Day02](/Day02/): Understanding Data Types and How to Manipulate Strings
-[Day03](/Day03/): Control Flow and Logical Operators
-[Day04](/Day04/): Randomisation and Python Lists
-[Day05](/Day05/): Python Loops
-[Day06](/Day06/): Python Functions & Karel
-[Day07](/Day07/): Hangman
-[Day08](/Day08/): Function Parameters & Caesar Cypher
+- [Day01](/Day01/): Working with Variables in Python to Manage Data
+- [Day02](/Day02/): Understanding Data Types and How to Manipulate Strings
+- [Day03](/Day03/): Control Flow and Logical Operators
+- [Day04](/Day04/): Randomisation and Python Lists
+- [Day05](/Day05/): Python Loops
+- [Day06](/Day06/): Python Functions & Karel
+- [Day07](/Day07/): Hangman
+- [Day08](/Day08/): Function Parameters & Caesar Cypher
 
 ## Intermediate
 ...
