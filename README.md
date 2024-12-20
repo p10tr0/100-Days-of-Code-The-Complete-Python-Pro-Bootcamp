@@ -1,6 +1,6 @@
 <h1 align="center">100-Days-of-Code</h1>
 
-<p aligh="center">
+<p align="center">
     <img src="./ghost-in-the-shell.gif" align="center">
 </p>
 
