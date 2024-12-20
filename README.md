@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">100-Days-of-Code</h1>
+<h1 align="center">100-Days-of-Code</h1>
 
-<p style="text-align: center;"><img src="./ghost-in-the-shell.gif"></p>
+<img src="./ghost-in-the-shell.gif" align="center">
 
 The following contains a repository of my coursework on the 100 Days of Code: The Complete Python Pro Bootcamp course undertaken on Udemy.com.
 
