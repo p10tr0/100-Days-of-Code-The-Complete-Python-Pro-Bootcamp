@@ -18,6 +18,7 @@ The goal is to finish all 100 days of python work and upload the content here, s
 - [Day07](/Day07/): Hangman
 - [Day08](/Day08/): Function Parameters & Caesar Cypher
 - [Day09](/Day09/): Dictionaries, Nesting and the Secret Auction
+- [Day10](/Day10/): Functions with Outputs
 
 ## Intermediate
 ...
