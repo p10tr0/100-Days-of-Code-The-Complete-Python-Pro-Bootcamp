@@ -20,6 +20,7 @@ The goal is to finish all 100 days of python work and upload the content here, s
 - [Day09](/Day09/): Dictionaries, Nesting and the Secret Auction
 - [Day10](/Day10/): Functions with Outputs
 - [Day11](/Day11/): The Blackjack Capstone Project
+- [Day12](/Day12/): Scope & Number Guessing Game
 
 ## Intermediate
 ...
