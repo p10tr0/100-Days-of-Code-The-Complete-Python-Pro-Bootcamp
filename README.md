@@ -21,7 +21,7 @@ The goal is to finish all 100 days of python work and upload the content here, s
 - [Day10](/Day10/): Functions with Outputs
 - [Day11](/Day11/): The Blackjack Capstone Project
 - [Day12](/Day12/): Scope & Number Guessing Game
-- [Day13]: Debugging: How to Find Errors in your Code
+- Day13: Debugging: How to Find Errors in your Code
 
 ## Intermediate
 ...
